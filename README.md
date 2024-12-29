@@ -25,7 +25,6 @@ You can interact with the live version of the system here: [Movie Recommendation
 - **Streamlit**: For creating the interactive web application.
 - **Pandas**: For data processing and manipulation.
 - **Scikit-learn**: For implementing the recommendation system's algorithm.
-- **Git LFS (Large File Storage)**: For managing the large model file (`similarity.pkl`).
 
 ---
 
